@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+Source
+target
+knn.py 
+k_means.py
+*.ipynb*
+output
